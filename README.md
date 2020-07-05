@@ -1,3 +1,5 @@
+# This branch is no longer recommended for use! Switch to the go-rewrite branch for a more up-to-date version of Snapdrop Desktop.
+
 # snapdrop-desktop
 A Snapdrop Desktop app written using Electron.
 
